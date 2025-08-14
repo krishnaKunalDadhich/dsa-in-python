@@ -52,18 +52,3 @@ You can track detailed progress here → [progress.md](progress.md)
 ---
 
 ## 📌 Folder Structure
-dsa-in-python/
-├── 📁 01_Arrays/
-│ ├── 📝 001_two_sum.py
-│ ├── 📝 002_max_subarray.py
-│
-├── 📁 02_Strings/
-│ ├── 📝 001_reverse_string.py
-│ ├── 📝 002_check_anagram.py
-│
-├── 📁 03_Linked_List/
-│ ├── 📝 001_reverse_linked_list.py
-│
-├── 📄 progress.md
-├── 📄 README.md
-├── 📄 requirements.txt (optional)
